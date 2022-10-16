@@ -1,0 +1,28 @@
+<?xml version="1.0" enconding="UTF-8"?>
+	<library_data>
+		<technical_books>
+			<book>
+				<ISBN>978-3-16-148410-0</ISBN>  
+				<title>System Design Interview – An Insider's Guide</title>
+				<author>Alex Xu</author>
+			</book>
+			<book>
+				<ISBN>978-3-16-148410-9/ISBN>  
+				<title>Escaping the Build Trap: How Effective Product Management Creates Real Value</title>
+				<author>Melissa Perri</author>
+			</book>
+		</technical_books>
+		<cookery_books>
+			<book>
+				<ISBN>978-3-16-148410-5</ISBN>  
+				<title>The Cook You Want to Be: Everyday Recipes to Impress</title>
+				<author>Andy Baraghani</author>
+			</book>
+			<book>
+				<ISBN>978-3-16-148410-6</ISBN>  
+				<title>Mi Cocina: Recipes and Rapture from My Kitchen in Mexico: A Cookbook</title>
+				<author>Rick Martínez </author>
+			</book>
+		</cookery_books>
+	</library_data>
+		
